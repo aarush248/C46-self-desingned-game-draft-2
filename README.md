@@ -1,1 +1,2 @@
-# C46-self-desingned-game-draft-2
+# synchronousBallMovement
+Ball moving synchronously
